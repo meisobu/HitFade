@@ -17,7 +17,7 @@ jobs:
 
       - run: chmod +x gradlew
 
-      - run: ./gradlew setupCIWorkspace build
+      - run: ./gradlew build
         env:
           GRADLE_OPTS: -Xmx3G
 
