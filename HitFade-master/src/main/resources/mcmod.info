@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "hitfade",
+    "name": "HitFade",
+    "description": "Reduces vanilla combat hit particles as consecutive confirmed hits accumulate.",
+    "version": "1.0.1",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/meisobu/HitFade",
+    "updateUrl": "",
+    "authorList": ["meisobu"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
